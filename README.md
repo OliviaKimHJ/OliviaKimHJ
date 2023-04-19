@@ -1,4 +1,6 @@
 ## 🔥 Hi, I'm Olivia
+- 서울여자대학교 졸업
+- 멀티미디어학과
 
 ### 💻 내가 공부하는 공간
 - 백엔드갈 개발자
@@ -47,9 +49,10 @@
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
 </div>
-<!--
 
-https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
+
+<!--
+뱃지정보 - https://github.com/Ileriayo/markdown-badges
 **OliviaKimHJ/OliviaKimHJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
