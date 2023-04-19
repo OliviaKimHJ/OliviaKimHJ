@@ -23,8 +23,33 @@
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
 </div>
 
+## Projects
+### 01. STS Team Project
+<h3>✈️여행코스 커뮤니티 웹페이지<br> Github: https://github.com/OliviaKimHJ/SpringBoot_TeamMini.git </h3>
+<h4>STACKS</h4>
+<div> 
+  <img src="https://img.shields.io/badge/SPRING BOOT-green?style=flat&logo=Spring&Boot?&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/gradle-02303A?style=flat&logo=gradle&logoColor=white">
+</div>
+<div><hr></div>
 
+### 02. Mini Front Project
+<h3>🎁빈티지 쇼핑몰 <br> Github: https://github.com/OliviaKimHJ/mini.git </h3>
+<h4>STACKS</h4>
+<div> 
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+</div>
 <!--
+
+https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
 **OliviaKimHJ/OliviaKimHJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
